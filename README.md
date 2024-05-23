@@ -13,6 +13,8 @@ The MyLibrary System addresses the inefficiencies of traditional physical librar
 ## Technical Details
 The project was implemented using Java, JSP, and JDBC, adhering to the MVC architecture. It involves a comprehensive use of SQL for database management and includes various modules such as user management, book management, borrowing/returning books, and report generation.
 
+## User Interface
+### Registration
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/0f824666-ce8a-4bf6-aab1-c4d96d49a1c1)
 
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/bd111c7b-416b-4358-88df-2c9185a77ba0)
