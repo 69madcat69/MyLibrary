@@ -28,19 +28,16 @@ The project was implemented using Java, JSP, and JDBC, adhering to the MVC archi
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/fc4edb38-6e38-48cb-a53d-9e480f74d9cf)
 
 ### Books Dashboard - Admin  
-
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/7589cbbf-05c9-488c-a30d-bf0ba86c3471)
 
 ### Update Books  
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/d7e12fb4-85d7-4a81-bcd8-ecc10844c91c)
 
 ### Report Dashboard - Admin
-![image](https://github.com/69madcat69/MyLibrary/assets/93109732/3eed6282-eba0-47ce-9e8e-dbbad5053c49)
-
-### Borrowers List - Admin
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/ec60cc6f-cdcf-4ab1-961e-4738655c2323)
 
-### File Management - Admin
+### Borrowers List - Admin
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/cb6d14d9-706f-42f7-93a3-23eb2f63f444)
 
+### File Management - Admin
 ![image](https://github.com/69madcat69/MyLibrary/assets/93109732/373e1fbd-7463-4624-8079-dd4e9b8bac5e)
